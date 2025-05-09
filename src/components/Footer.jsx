@@ -43,7 +43,7 @@ const Footer = () => {
           
           <div className="flex gap-4 mt-2 md:mt-0">
             <motion.a 
-              href="https://github.com/sakshinirmal/sorting-visualizer" 
+              href="https://github.com/Ravi38714/Sorting-Visualizer" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-sm text-gray-400 hover:text-white transition-colors flex items-center"
