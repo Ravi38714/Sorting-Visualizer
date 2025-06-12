@@ -6,7 +6,7 @@ A beautiful, interactive web application that visualizes various sorting algorit
 
 ## 🚀 Live Demo
 
-[View Live Demo]([https://sorting-visualizer-blue-seven.vercel.app/](https://sorting-visualizer-omega-neon.vercel.app/])
+[View Live Demo]([https://sorting-visualizer-blue-seven.vercel.app/]([https://sorting-visualizer-omega-neon.vercel.app/])
 
 ## ✨ Features
 
