@@ -6,7 +6,7 @@ A beautiful, interactive web application that visualizes various sorting algorit
 
 ## 🚀 Live Demo
 
-[View Live Demo]([https://sorting-visualizer-blue-seven.vercel.app/])
+[View Live Demo]([https://sorting-visualizer-blue-seven.vercel.app/](https://sorting-visualizer-omega-neon.vercel.app/])
 
 ## ✨ Features
 
@@ -114,10 +114,6 @@ sorting-visualizer/
 - **Time Complexity**: O(n log n) in all cases
 - **Space Complexity**: O(1)
 - **Description**: Builds a max heap from the array and repeatedly extracts the maximum element.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
